@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Sat, 28 Dec 2024 20:37:46 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bai Hoc Ve Java</title>
+      <link>http://localhost:1313/posts/bai-hoc-ve-java/</link>
+      <pubDate>Sat, 28 Dec 2024 20:37:46 +0700</pubDate><author>youremail@domain.com (Some Person)</author>
+      <guid>http://localhost:1313/posts/bai-hoc-ve-java/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
