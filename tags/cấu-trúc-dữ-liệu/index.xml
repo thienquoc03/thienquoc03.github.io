@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cấu Trúc Dữ Liệu on My blog</title>
+    <link>http://localhost:57238/tags/c%E1%BA%A5u-tr%C3%BAc-d%E1%BB%AF-li%E1%BB%87u/</link>
+    <description>Recent content in Cấu Trúc Dữ Liệu on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 28 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:57238/tags/c%E1%BA%A5u-tr%C3%BAc-d%E1%BB%AF-li%E1%BB%87u/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Các Cấu Trúc Dữ Liệu và Thuật Toán trong Java</title>
+      <link>http://localhost:57238/post/post4/</link>
+      <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57238/post/post4/</guid>
+      
+        <description>Khám phá các cấu trúc dữ liệu cơ bản và thuật toán trong Java.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

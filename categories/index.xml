@@ -6,24 +6,79 @@
     <description>Recent content in Categories on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Dec 2024 16:00:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Syntax</title>
-      <link>http://localhost:1313/categories/syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Java</title>
+      <link>http://localhost:1313/categories/java/</link>
+      <pubDate>Mon, 30 Dec 2024 16:00:00 +0700</pubDate>
       
-      <guid>http://localhost:1313/categories/syntax/</guid>
+      <guid>http://localhost:1313/categories/java/</guid>
       
         <description></description>
       
     </item>
     
     <item>
-      <title>Themes</title>
-      <link>http://localhost:1313/categories/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Lập Trình</title>
+      <link>http://localhost:1313/categories/l%E1%BA%ADp-tr%C3%ACnh/</link>
+      <pubDate>Mon, 30 Dec 2024 16:00:00 +0700</pubDate>
       
-      <guid>http://localhost:1313/categories/themes/</guid>
+      <guid>http://localhost:1313/categories/l%E1%BA%ADp-tr%C3%ACnh/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tính Năng</title>
+      <link>http://localhost:1313/categories/t%C3%ADnh-n%C4%83ng/</link>
+      <pubDate>Mon, 30 Dec 2024 16:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/categories/t%C3%ADnh-n%C4%83ng/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>http://localhost:1313/categories/programming/</link>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/programming/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Công Nghệ</title>
+      <link>http://localhost:1313/categories/c%C3%B4ng-ngh%E1%BB%87/</link>
+      <pubDate>Sat, 21 Dec 2024 11:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/categories/c%C3%B4ng-ngh%E1%BB%87/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>JavaScript</title>
+      <link>http://localhost:1313/categories/javascript/</link>
+      <pubDate>Sat, 21 Dec 2024 11:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/categories/javascript/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Phát Triển Phần Mềm</title>
+      <link>http://localhost:1313/categories/ph%C3%A1t-tri%E1%BB%83n-ph%E1%BA%A7n-m%E1%BB%81m/</link>
+      <pubDate>Fri, 20 Dec 2024 10:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/categories/ph%C3%A1t-tri%E1%BB%83n-ph%E1%BA%A7n-m%E1%BB%81m/</guid>
       
         <description></description>
       

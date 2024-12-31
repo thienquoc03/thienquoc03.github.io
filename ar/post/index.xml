@@ -1,20 +1,119 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on فلانة الفلانية</title>
+    <title>Posts on blog</title>
     <link>http://localhost:1313/ar/post/</link>
-    <description>Recent content in Posts on فلانة الفلانية</description>
+    <description>Recent content in Posts on blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ar</language>
-    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/ar/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Dec 2024 16:00:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/ar/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>نموذج عربي</title>
-      <link>http://localhost:1313/ar/post/arabic_example/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Những tính năng nổi bật của Java</title>
+      <link>http://localhost:1313/ar/post/post10/</link>
+      <pubDate>Mon, 30 Dec 2024 16:00:00 +0700</pubDate>
       
-      <guid>http://localhost:1313/ar/post/arabic_example/</guid>
+      <guid>http://localhost:1313/ar/post/post10/</guid>
       
-        <description>نص عربي سريع</description>
+        <description>Khám phá những tính năng quan trọng làm nên sự thành công và phổ biến của Java trong thế giới lập trình.</description>
+      
+    </item>
+    
+    <item>
+      <title>Cấu trúc chương trình Java</title>
+      <link>http://localhost:1313/ar/post/post1/</link>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ar/post/post1/</guid>
+      
+        <description>Một chương trình Java cơ bản có cấu trúc như sau:</description>
+      
+    </item>
+    
+    <item>
+      <title>Chia sẻ kiến thức về JavaScript</title>
+      <link>http://localhost:1313/ar/post/chia-s%E1%BA%BB-ki%E1%BA%BFn-th%E1%BB%A9c-v%E1%BB%81-javascript/</link>
+      <pubDate>Tue, 24 Dec 2024 10:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/ar/post/chia-s%E1%BA%BB-ki%E1%BA%BFn-th%E1%BB%A9c-v%E1%BB%81-javascript/</guid>
+      
+        <description>Một số kiến thức cơ bản và mẹo vặt trong JavaScript</description>
+      
+    </item>
+    
+    <item>
+      <title>Giới thiệu về Java và Lập trình Hướng Đối Tượng</title>
+      <link>http://localhost:1313/ar/post/post3/</link>
+      <pubDate>Tue, 24 Dec 2024 10:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/ar/post/post3/</guid>
+      
+        <description>Khám phá Java và các khái niệm cơ bản trong lập trình hướng đối tượng.</description>
+      
+    </item>
+    
+    <item>
+      <title>Khám phá ngôn ngữ lập trình Java</title>
+      <link>http://localhost:1313/ar/post/post7/</link>
+      <pubDate>Tue, 24 Dec 2024 10:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/ar/post/post7/</guid>
+      
+        <description>Tìm hiểu về Java - một trong những ngôn ngữ lập trình mạnh mẽ và phổ biến nhất, từ khái niệm cơ bản đến ứng dụng thực tiễn.</description>
+      
+    </item>
+    
+    <item>
+      <title>Rest và Spread Operators</title>
+      <link>http://localhost:1313/ar/post/rest-v%C3%A0-spread-operators/</link>
+      <pubDate>Tue, 24 Dec 2024 10:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/ar/post/rest-v%C3%A0-spread-operators/</guid>
+      
+        <description>Hai toán tử này cực kỳ hữu ích trong việc xử lý mảng và đối tượng.</description>
+      
+    </item>
+    
+    <item>
+      <title>Tổng quan về JavaScript</title>
+      <link>http://localhost:1313/ar/post/post6/</link>
+      <pubDate>Sat, 21 Dec 2024 11:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/ar/post/post6/</guid>
+      
+        <description>Khám phá một cách tổng quan về JavaScript, ngôn ngữ lập trình phổ biến nhất trong phát triển web hiện đại.</description>
+      
+    </item>
+    
+    <item>
+      <title>Các Thư Viện Java Thường Dùng</title>
+      <link>http://localhost:1313/ar/post/post4/</link>
+      <pubDate>Fri, 20 Dec 2024 10:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/ar/post/post4/</guid>
+      
+        <description>Tìm hiểu những thư viện Java nổi bật hỗ trợ phát triển phần mềm hiệu quả hơn.</description>
+      
+    </item>
+    
+    <item>
+      <title>Quản lý Bộ Nhớ trong Java</title>
+      <link>http://localhost:1313/ar/post/post5/</link>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ar/post/post5/</guid>
+      
+        <description>Khám phá cách Java quản lý bộ nhớ tự động và cơ chế Garbage Collection.</description>
+      
+    </item>
+    
+    <item>
+      <title>Chia sẻ kiến thức về Java</title>
+      <link>http://localhost:1313/ar/post/post2/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ar/post/post2/</guid>
+      
+        <description>Một số kiến thức cơ bản và mẹo vặt trong Java.</description>
       
     </item>
     

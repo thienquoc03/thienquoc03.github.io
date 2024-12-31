@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series-Setup on blog</title>
+    <link>http://localhost:1313/ar/series/series-setup/</link>
+    <description>Recent content in Series-Setup on blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ar</language>
+    <lastBuildDate>Tue, 24 Dec 2024 10:00:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/ar/series/series-setup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rest và Spread Operators</title>
+      <link>http://localhost:1313/ar/post/rest-v%C3%A0-spread-operators/</link>
+      <pubDate>Tue, 24 Dec 2024 10:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/ar/post/rest-v%C3%A0-spread-operators/</guid>
+      
+        <description>Hai toán tử này cực kỳ hữu ích trong việc xử lý mảng và đối tượng.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,14 @@
+[EN]
+title = "My blog"
+weight = 1
+LanguageName = "VN"
+contentDir = "content/vietnam"
+
+[ar]
+title = "blog"
+contentDir = "content/vietnam" 
+weight = 2
+LanguageDirection = "rtl" 
+LanguageName = "EN"
+[ar.params]
+description = "أنا أعمل كمطورة ويب في شركة س"

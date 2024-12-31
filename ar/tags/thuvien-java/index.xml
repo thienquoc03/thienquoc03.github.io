@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thuvien-Java on blog</title>
+    <link>http://localhost:1313/ar/tags/thuvien-java/</link>
+    <description>Recent content in Thuvien-Java on blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ar</language>
+    <lastBuildDate>Fri, 20 Dec 2024 10:00:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/ar/tags/thuvien-java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Các Thư Viện Java Thường Dùng</title>
+      <link>http://localhost:1313/ar/post/post4/</link>
+      <pubDate>Fri, 20 Dec 2024 10:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/ar/post/post4/</guid>
+      
+        <description>Tìm hiểu những thư viện Java nổi bật hỗ trợ phát triển phần mềm hiệu quả hơn.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

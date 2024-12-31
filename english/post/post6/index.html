@@ -1,0 +1,636 @@
+<!doctype html>
+<html
+  dir="ltr"
+  lang="en"
+  data-theme=""
+  
+    class="html theme--light"
+  
+><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8" />
+  <title>
+    
+      
+        Tổng quan về JavaScript |
+      thienquoc03
+
+  </title>
+
+  <meta name="generator" content="Hugo 0.140.1"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta name="author" content="thienquoc03" />
+  <meta
+    name="description"
+    content="Khám phá một cách tổng quan về JavaScript, ngôn ngữ lập trình phổ biến nhất trong phát triển web hiện đại."
+  />
+  
+  
+    
+    
+    <link
+      rel="stylesheet"
+      href="/scss/main.min.8d4fad7e6916ad2e291e8d97ada157c70350d6d7150fea137e7243340967befb.css"
+      integrity="sha256-jU&#43;tfmkWrS4pHo2XraFXxwNQ1tcVD&#43;oTfnJDNAlnvvs="
+      crossorigin="anonymous"
+      type="text/css"
+    />
+  
+
+  
+  <link
+    rel="stylesheet"
+    href="/css/markupHighlight.min.73ccfdf28df555e11009c13c20ced067af3cb021504cba43644c705930428b00.css"
+    integrity="sha256-c8z98o31VeEQCcE8IM7QZ688sCFQTLpDZExwWTBCiwA="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  
+  <link
+    rel="stylesheet"
+    href="/fontawesome/css/fontawesome.min.10cb17328b3207590ce3d89fb482e7cd6937d8138cef2059c69cabd65ab7d6c6.css"
+    integrity="sha256-EMsXMosyB1kM49iftILnzWk32BOM7yBZxpyr1lq31sY="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  <link
+    rel="stylesheet"
+    href="/fontawesome/css/solid.min.7aa4d559d5fadcfed666b5679be54d0dbbcf6a0542742319765b253d2797cc44.css"
+    integrity="sha256-eqTVWdX63P7WZrVnm&#43;VNDbvPagVCdCMZdlslPSeXzEQ="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  <link
+    rel="stylesheet"
+    href="/fontawesome/css/regular.min.a699c3ab02229020e2d51dfe6c9a4cc556fd7781edbc166e2af9d0db9d5c66ce.css"
+    integrity="sha256-ppnDqwIikCDi1R3&#43;bJpMxVb9d4HtvBZuKvnQ251cZs4="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  <link
+    rel="stylesheet"
+    href="/fontawesome/css/brands.min.1d88b60c86c4bb253fa4d4c085d27f7ee1f6eca544f7b50b227a2e63fbcfbaaa.css"
+    integrity="sha256-HYi2DIbEuyU/pNTAhdJ/fuH27KVE97ULInouY/vPuqo="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+
+  <link rel="canonical" href="http://localhost:1313/english/post/post6/" />
+
+  
+  
+  
+  
+  <script
+    type="text/javascript"
+    src="/js/anatole-header.min.f9132794301a01ff16550ed66763482bd848f62243d278f5e550229a158bfd32.js"
+    integrity="sha256-&#43;RMnlDAaAf8WVQ7WZ2NIK9hI9iJD0nj15VAimhWL/TI="
+    crossorigin="anonymous"
+  ></script>
+
+  
+    
+    
+    <script
+      type="text/javascript"
+      src="/js/anatole-theme-switcher.min.d6d329d93844b162e8bed1e915619625ca91687952177552b9b3e211014a2957.js"
+      integrity="sha256-1tMp2ThEsWLovtHpFWGWJcqRaHlSF3VSubPiEQFKKVc="
+      crossorigin="anonymous"
+    ></script>
+  
+
+  
+
+  
+
+
+  
+  
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="http://localhost:1313/images/site-feature-image.png">
+  <meta name="twitter:title" content="Tổng quan về JavaScript">
+  <meta name="twitter:description" content="Khám phá một cách tổng quan về JavaScript, ngôn ngữ lập trình phổ biến nhất trong phát triển web hiện đại.">
+
+
+
+  
+  <meta property="og:url" content="http://localhost:1313/english/post/post6/">
+  <meta property="og:site_name" content="My blog">
+  <meta property="og:title" content="Tổng quan về JavaScript">
+  <meta property="og:description" content="Khám phá một cách tổng quan về JavaScript, ngôn ngữ lập trình phổ biến nhất trong phát triển web hiện đại.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="english">
+    <meta property="article:published_time" content="2024-12-21T11:00:00+07:00">
+    <meta property="article:modified_time" content="2024-12-21T11:00:00+07:00">
+    <meta property="article:tag" content="Javascript">
+    <meta property="article:tag" content="Web-Development">
+    <meta property="article:tag" content="Frontend">
+    <meta property="article:tag" content="Backend">
+    <meta property="article:tag" content="Nodejs">
+    <meta property="og:image" content="http://localhost:1313/images/site-feature-image.png">
+
+
+
+  
+  
+  
+  
+  <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "articleSection": "english",
+        "name": "Tổng quan về JavaScript",
+        "headline": "Tổng quan về JavaScript",
+        "alternativeHeadline": "",
+        "description": "
+      Khám phá một cách tổng quan về JavaScript, ngôn ngữ lập trình phổ biến nhất trong phát triển web hiện đại.
+
+
+    ",
+        "inLanguage": "en",
+        "isFamilyFriendly": "true",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "http:\/\/localhost:1313\/english\/post\/post6\/"
+        },
+        "author" : {
+            "@type": "Person",
+            "name": "thienquoc03"
+        },
+        "creator" : {
+            "@type": "Person",
+            "name": "thienquoc03"
+        },
+        "accountablePerson" : {
+            "@type": "Person",
+            "name": "thienquoc03"
+        },
+        "copyrightHolder" : {
+            "@type": "Person",
+            "name": "thienquoc03"
+        },
+        "copyrightYear" : "2024",
+        "dateCreated": "2024-12-21T11:00:00.00Z",
+        "datePublished": "2024-12-21T11:00:00.00Z",
+        "dateModified": "2024-12-21T11:00:00.00Z",
+        "publisher":{
+            "@type":"Organization",
+            "name": "thienquoc03",
+            "url": "http://localhost:1313/",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "http:\/\/localhost:1313\/favicon-32x32.png",
+                "width":"32",
+                "height":"32"
+            }
+        },
+        "image": 
+      [
+        
+        "http://localhost:1313/images/site-feature-image.png"
+
+
+      
+      ]
+
+    ,
+        "url" : "http:\/\/localhost:1313\/english\/post\/post6\/",
+        "wordCount" : "485",
+        "genre" : [ 
+      
+      "Lập trình"
+
+    
+      
+        ,
+
+      
+      "JavaScript"
+
+    
+      
+        ,
+
+      
+      "Công nghệ"
+
+    ],
+        "keywords" : [ 
+      
+      "javascript"
+
+    
+      
+        ,
+
+      
+      "web-development"
+
+    
+      
+        ,
+
+      
+      "frontend"
+
+    
+      
+        ,
+
+      
+      "backend"
+
+    
+      
+        ,
+
+      
+      "nodejs"
+
+    ]
+    }
+  </script>
+
+
+</head>
+<body class="body">
+    <div class="wrapper">
+      <aside
+        
+          class="wrapper__sidebar"
+        
+      ><div
+  class="sidebar
+    animated fadeInDown
+  "
+>
+  <div class="sidebar__content">
+    <div class="sidebar__introduction">
+      <img
+        class="sidebar__introduction-profileimage"
+        src="/images/hinh1.jpg"
+        alt="profile picture"
+      />
+      
+        <div class="sidebar__introduction-title">
+          <a href="/">Pham Thien Quoc</a>
+        </div>
+      
+      <div class="sidebar__introduction-description">
+        <p>song bang tinh cam</p>
+      </div>
+    </div>
+    <ul class="sidebar__list">
+      
+        <li class="sidebar__list-item">
+          <a
+            href="https://www.facebook.com/quoc.thien.0312"
+            target="_blank"
+            rel="noopener me"
+            aria-label="Facebook"
+            title="Facebook"
+          >
+            <i class="fa-brands fa-facebook fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+      
+        <li class="sidebar__list-item">
+          <a
+            href="https://github.com/thienquoc03/thienquoc03.github.io"
+            target="_blank"
+            rel="noopener me"
+            aria-label="GitHub"
+            title="GitHub"
+          >
+            <i class="fa-brands fa-github fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+      
+        <li class="sidebar__list-item">
+          <a
+            href="https://www.instagram.com/thienquoc03/"
+            target="_blank"
+            rel="noopener me"
+            aria-label="instagram"
+            title="instagram"
+          >
+            <i class="fa-brands fa-instagram fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+      
+        <li class="sidebar__list-item">
+          <a
+            href="mailto:thienquoc0312@gmail.com"
+            target="_blank"
+            rel="noopener me"
+            aria-label="e-mail"
+            title="e-mail"
+          >
+            <i class="fa-solid fa-envelope fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+      
+    </ul>
+  </div><footer class="footer footer__sidebar">
+  <ul class="footer__list">
+    <li class="footer__item">
+      &copy;
+      
+        thienquoc03
+        2024
+      
+    </li>
+    
+      <li class="footer__item">
+        <a
+          class="link"
+          href="/imprint/"
+          
+          title=""
+        >
+          Nhãn Hiệu
+        </a>
+      </li>
+    
+  </ul>
+</footer>
+  
+  <script
+    type="text/javascript"
+    src="/js/medium-zoom.min.1248fa75275e5ef0cbef27e8c1e27dc507c445ae3a2c7d2ed0be0809555dac64.js"
+    integrity="sha256-Ekj6dSdeXvDL7yfoweJ9xQfERa46LH0u0L4ICVVdrGQ="
+    crossorigin="anonymous"
+  ></script></div>
+</aside>
+      <main
+        
+          class="wrapper__main"
+        
+      >
+        <header class="header"><div
+  class="
+    animated fadeInDown
+  "
+>
+  <a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false">
+    <span aria-hidden="true" class="navbar-burger__line"></span>
+    <span aria-hidden="true" class="navbar-burger__line"></span>
+    <span aria-hidden="true" class="navbar-burger__line"></span>
+  </a>
+  <nav class="nav">
+    <ul class="nav__list" id="navMenu">
+      
+      
+        
+        
+          <li class="nav__list-item">
+            
+            <a
+              
+              href="/"
+              
+              title=""
+              >Trang Chủ</a
+            >
+          </li>
+        
+
+      
+        
+        
+          <li class="nav__list-item">
+            
+            <a
+              
+              href="/post/"
+              
+              title=""
+              >Bài Viết</a
+            >
+          </li>
+        
+
+      
+        
+        
+          <li class="nav__list-item">
+            
+            <a
+              
+              href="/portfolio/"
+              
+              title=""
+              >Danh Mục Sản Phẩm</a
+            >
+          </li>
+        
+
+      
+        
+        
+          <li class="nav__list-item">
+            
+            <a
+              
+              href="/about/"
+              
+              title=""
+              >Về Tôi</a
+            >
+          </li>
+        
+
+      
+        
+        
+
+          <li class="nav__list-item">
+            <div class="optionswitch">
+              <input class="optionswitch__picker" type="checkbox" id="4" hidden />
+
+              
+              
+                
+
+              
+
+
+              <label class="optionswitch__label" for="4"
+                >Thành Tựu <i class="fa fa-angle-down" aria-hidden="true"></i
+              ></label>
+
+              <div class="optionswitch__triangle"></div>
+              <ul class="optionswitch__list">
+                
+                  <li class="optionswitch__list-item">
+                    
+                    <a
+                      href="/certifications/"
+                      
+                      title=""
+                      >Chứng Nhận</a
+                    >
+                  </li>
+                
+              </ul>
+            </div>
+          </li>
+        
+
+      
+        
+        
+          <li class="nav__list-item">
+            
+            <a
+              
+              href="/contact/"
+              
+              title=""
+              >Liên Hệ</a
+            >
+          </li>
+        
+
+      
+    </ul>
+    <ul class="nav__list nav__list--end">
+      
+      
+        <li class="nav__list-item">
+          <div class="themeswitch">
+            <a title="Switch Theme">
+              <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
+            </a>
+          </div>
+        </li>
+      
+    </ul>
+  </nav>
+</div>
+</header>
+  <div
+    class="post 
+      animated fadeInDown
+    "
+  >
+    
+    <div class="post__content">
+      
+        <h1>Tổng Quan Về JavaScript</h1>
+      
+      <p>Tổng quan về JavaScript</p>
+<p>JavaScript là ngôn ngữ lập trình phổ biến được thiết kế để làm cho các trang web trở nên tương tác và sống động. Mặc dù xuất phát điểm chỉ là một công cụ nhỏ trong trình duyệt, ngày nay JavaScript đã trở thành một nền tảng phát triển toàn diện, từ giao diện người dùng đến xử lý phía máy chủ.</p>
+<h3 id="một-số-cột-mốc-quan-trọng">Một số cột mốc quan trọng</h3>
+<ul>
+<li><strong>1995:</strong> Brendan Eich tạo ra JavaScript chỉ trong 10 ngày tại Netscape. Ban đầu nó được gọi là &ldquo;Mocha&rdquo;, sau đó đổi thành &ldquo;LiveScript&rdquo; và cuối cùng được đặt tên là &ldquo;JavaScript&rdquo; nhằm tận dụng sự phổ biến của Java thời điểm đó.</li>
+<li><strong>2009:</strong> Node.js ra đời, giúp JavaScript có thể chạy trên server, mở ra kỷ nguyên phát triển full-stack bằng một ngôn ngữ duy nhất.</li>
+<li><strong>Hiện nay:</strong> JavaScript là cốt lõi của công nghệ web hiện đại, sử dụng rộng rãi trong các framework như React, Angular, và Vue.</li>
+</ul>
+<h3 id="đặc-điểm-nổi-bật-của-javascript">Đặc điểm nổi bật của JavaScript</h3>
+<ul>
+<li><strong>Linh hoạt:</strong> Có thể sử dụng cho cả front-end và back-end, từ web đến ứng dụng di động và thậm chí IoT.</li>
+<li><strong>Dễ học:</strong> JavaScript có cú pháp đơn giản, dễ tiếp cận đối với người mới học lập trình.</li>
+<li><strong>Event-driven (Hướng sự kiện):</strong> Cho phép xử lý các sự kiện như click chuột, nhập liệu hoặc tải trang.</li>
+<li><strong>Non-blocking I/O:</strong> Nhờ mô hình bất đồng bộ, JavaScript xử lý tác vụ nhanh hơn, đặc biệt là trong các ứng dụng thời gian thực.</li>
+<li><strong>Hỗ trợ cộng đồng mạnh mẽ:</strong> Hệ sinh thái thư viện phong phú như npm giúp dễ dàng tích hợp các tính năng.</li>
+</ul>
+<h3 id="các-ứng-dụng-chính">Các ứng dụng chính</h3>
+<ol>
+<li>
+<p><strong>Giao diện người dùng (Front-end):</strong><br>
+Các thư viện và framework như React, Vue.js, và Angular giúp phát triển giao diện web phức tạp một cách dễ dàng.</p>
+</li>
+<li>
+<p><strong>Máy chủ (Back-end):</strong><br>
+Node.js mở rộng khả năng của JavaScript để xử lý các tác vụ máy chủ, bao gồm API, cơ sở dữ liệu, và hơn thế nữa.</p>
+</li>
+<li>
+<p><strong>Ứng dụng di động:</strong><br>
+Với React Native hoặc Ionic, bạn có thể xây dựng ứng dụng di động đa nền tảng bằng JavaScript.</p>
+</li>
+<li>
+<p><strong>Trò chơi:</strong><br>
+JavaScript, kết hợp với WebGL và các công cụ như Three.js, cho phép tạo ra các trò chơi 2D và 3D chạy trên trình duyệt.</p>
+</li>
+</ol>
+<h3 id="cú-pháp-minh-họa">Cú pháp minh họa</h3>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-javascript" data-lang="javascript"><span class="line"><span class="cl"><span class="c1">// Khai báo biến (sử dụng let hoặc const)  
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="kr">const</span> <span class="nx">greeting</span> <span class="o">=</span> <span class="s2">&#34;Chào mừng bạn đến với JavaScript!&#34;</span><span class="p">;</span>  
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1">// Hàm cơ bản  
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="kr">const</span> <span class="nx">square</span> <span class="o">=</span> <span class="p">(</span><span class="nx">num</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="nx">num</span> <span class="o">*</span> <span class="nx">num</span><span class="p">;</span>  
+</span></span><span class="line"><span class="cl"><span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">square</span><span class="p">(</span><span class="mi">5</span><span class="p">));</span> <span class="c1">// Kết quả: 25  
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>
+</span></span><span class="line"><span class="cl"><span class="c1">// Điều kiện  
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="kr">const</span> <span class="nx">age</span> <span class="o">=</span> <span class="mi">18</span><span class="p">;</span>  
+</span></span><span class="line"><span class="cl"><span class="kr">const</span> <span class="nx">message</span> <span class="o">=</span> <span class="nx">age</span> <span class="o">&gt;=</span> <span class="mi">18</span> <span class="o">?</span> <span class="s2">&#34;Đủ tuổi trưởng thành&#34;</span> <span class="o">:</span> <span class="s2">&#34;Chưa đủ tuổi trưởng thành&#34;</span><span class="p">;</span>  
+</span></span><span class="line"><span class="cl"><span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">message</span><span class="p">);</span>  
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1">// Vòng lặp  
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="kr">const</span> <span class="nx">numbers</span> <span class="o">=</span> <span class="p">[</span><span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">3</span><span class="p">,</span> <span class="mi">4</span><span class="p">,</span> <span class="mi">5</span><span class="p">];</span>  
+</span></span><span class="line"><span class="cl"><span class="nx">numbers</span><span class="p">.</span><span class="nx">forEach</span><span class="p">((</span><span class="nx">num</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">num</span><span class="p">));</span>  
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1">// Xử lý sự kiện (giả lập trong Node.js hoặc trình duyệt)  
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="nb">document</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s2">&#34;click&#34;</span><span class="p">,</span> <span class="p">()</span> <span class="p">=&gt;</span> <span class="p">{</span>  
+</span></span><span class="line"><span class="cl">  <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="s2">&#34;Bạn vừa nhấp chuột!&#34;</span><span class="p">);</span>  
+</span></span><span class="line"><span class="cl"><span class="p">});</span>  
+</span></span></code></pre></div></div>
+    <div class="post__footer">
+      
+        <span><a class="category" href="/categories/l%E1%BA%ADp-tr%C3%ACnh/">Lập trình</a><a class="category" href="/categories/javascript/">JavaScript</a><a class="category" href="/categories/c%C3%B4ng-ngh%E1%BB%87/">Công nghệ</a></span>
+
+
+      
+
+      
+        <span><a class="tag" href="/tags/javascript/">javascript</a><a class="tag" href="/tags/web-development/">web-development</a><a class="tag" href="/tags/frontend/">frontend</a><a class="tag" href="/tags/backend/">backend</a><a class="tag" href="/tags/nodejs/">nodejs</a></span>
+
+
+      
+    </div>
+
+    
+  </div>
+
+      </main>
+    </div><footer class="footer footer__base">
+  <ul class="footer__list">
+    <li class="footer__item">
+      &copy;
+      
+        thienquoc03
+        2024
+      
+    </li>
+    
+      <li class="footer__item">
+        <a
+          class="link"
+          href="/imprint/"
+          
+          title=""
+        >
+          Nhãn Hiệu
+        </a>
+      </li>
+    
+  </ul>
+</footer>
+  
+  <script
+    type="text/javascript"
+    src="/js/medium-zoom.min.1248fa75275e5ef0cbef27e8c1e27dc507c445ae3a2c7d2ed0be0809555dac64.js"
+    integrity="sha256-Ekj6dSdeXvDL7yfoweJ9xQfERa46LH0u0L4ICVVdrGQ="
+    crossorigin="anonymous"
+  ></script></body>
+</html>

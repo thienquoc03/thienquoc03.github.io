@@ -6,125 +6,114 @@
     <description>Recent content in Posts on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Mar 2022 21:47:41 +0000</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Dec 2024 16:00:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The Notice Shortcode</title>
-      <link>http://localhost:1313/post/notice-shortcode/</link>
-      <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
+      <title>Những tính năng nổi bật của Java</title>
+      <link>http://localhost:1313/post/post10/</link>
+      <pubDate>Mon, 30 Dec 2024 16:00:00 +0700</pubDate>
       
-      <guid>http://localhost:1313/post/notice-shortcode/</guid>
+      <guid>http://localhost:1313/post/post10/</guid>
       
-        <description><p>The notice shortcode supports three different types of disclaimers. These are as following:</p></description>
+        <description>Khám phá những tính năng quan trọng làm nên sự thành công và phổ biến của Java trong thế giới lập trình.</description>
       
     </item>
     
     <item>
-      <title>Series Part 2</title>
-      <link>http://localhost:1313/post/series-part-2/</link>
-      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
+      <title>Cấu trúc chương trình Java</title>
+      <link>http://localhost:1313/post/post1/</link>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/series-part-2/</guid>
+      <guid>http://localhost:1313/post/post1/</guid>
       
-        <description>A brief guide to how to setup series part 2</description>
-      
-    </item>
-    
-    <item>
-      <title>Series Part 1</title>
-      <link>http://localhost:1313/post/series-part-1/</link>
-      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/series-part-1/</guid>
-      
-        <description>A brief guide to how to setup series part 1</description>
+        <description>Một chương trình Java cơ bản có cấu trúc như sau:</description>
       
     </item>
     
     <item>
-      <title>Redirect</title>
-      <link>http://localhost:1313/post/redirect/</link>
-      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      <title>Chia sẻ kiến thức về JavaScript</title>
+      <link>http://localhost:1313/post/chia-s%E1%BA%BB-ki%E1%BA%BFn-th%E1%BB%A9c-v%E1%BB%81-javascript/</link>
+      <pubDate>Tue, 24 Dec 2024 10:00:00 +0700</pubDate>
       
-      <guid>http://localhost:1313/post/redirect/</guid>
+      <guid>http://localhost:1313/post/chia-s%E1%BA%BB-ki%E1%BA%BFn-th%E1%BB%A9c-v%E1%BB%81-javascript/</guid>
       
-        <description>Usage of redirectUrl</description>
-      
-    </item>
-    
-    <item>
-      <title>The Figure Shortcode</title>
-      <link>http://localhost:1313/post/figure-shortcode/</link>
-      <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/figure-shortcode/</guid>
-      
-        <description><p>Hugo has <code>figure</code> shortcode built-in, so you can easily add figure captions or hyperlink rel attributes to images. Documentations can be found here:</p></description>
+        <description>Một số kiến thức cơ bản và mẹo vặt trong JavaScript</description>
       
     </item>
     
     <item>
-      <title>Markdown Syntax Guide</title>
-      <link>http://localhost:1313/post/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Giới thiệu về Java và Lập trình Hướng Đối Tượng</title>
+      <link>http://localhost:1313/post/post3/</link>
+      <pubDate>Tue, 24 Dec 2024 10:00:00 +0700</pubDate>
       
-      <guid>http://localhost:1313/post/markdown-syntax/</guid>
+      <guid>http://localhost:1313/post/post3/</guid>
       
-        <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
-      
-    </item>
-    
-    <item>
-      <title>Rich Content</title>
-      <link>http://localhost:1313/post/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/rich-content/</guid>
-      
-        <description>A brief description of Hugo Shortcodes</description>
+        <description>Khám phá Java và các khái niệm cơ bản trong lập trình hướng đối tượng.</description>
       
     </item>
     
     <item>
-      <title>Placeholder Text</title>
-      <link>http://localhost:1313/post/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Khám phá ngôn ngữ lập trình Java</title>
+      <link>http://localhost:1313/post/post7/</link>
+      <pubDate>Tue, 24 Dec 2024 10:00:00 +0700</pubDate>
       
-      <guid>http://localhost:1313/post/placeholder-text/</guid>
+      <guid>http://localhost:1313/post/post7/</guid>
       
-        <description>Lorem Ipsum Dolor Si Amet</description>
-      
-    </item>
-    
-    <item>
-      <title>Math Typesetting</title>
-      <link>http://localhost:1313/post/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/math-typesetting/</guid>
-      
-        <description>A brief guide to setup KaTeX</description>
+        <description>Tìm hiểu về Java - một trong những ngôn ngữ lập trình mạnh mẽ và phổ biến nhất, từ khái niệm cơ bản đến ứng dụng thực tiễn.</description>
       
     </item>
     
     <item>
-      <title>Emoji Support</title>
-      <link>http://localhost:1313/post/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Rest và Spread Operators</title>
+      <link>http://localhost:1313/post/rest-v%C3%A0-spread-operators/</link>
+      <pubDate>Tue, 24 Dec 2024 10:00:00 +0700</pubDate>
       
-      <guid>http://localhost:1313/post/emoji-support/</guid>
+      <guid>http://localhost:1313/post/rest-v%C3%A0-spread-operators/</guid>
       
-        <description>Guide to emoji usage in Hugo</description>
+        <description>Hai toán tử này cực kỳ hữu ích trong việc xử lý mảng và đối tượng.</description>
       
     </item>
     
     <item>
-      <title>Guide to Thumbnails in Hugo</title>
-      <link>http://localhost:1313/post/image-test/</link>
-      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Tổng quan về JavaScript</title>
+      <link>http://localhost:1313/post/post6/</link>
+      <pubDate>Sat, 21 Dec 2024 11:00:00 +0700</pubDate>
       
-      <guid>http://localhost:1313/post/image-test/</guid>
+      <guid>http://localhost:1313/post/post6/</guid>
       
-        <description>Guide to Thumbnails in Hugo</description>
+        <description>Khám phá một cách tổng quan về JavaScript, ngôn ngữ lập trình phổ biến nhất trong phát triển web hiện đại.</description>
+      
+    </item>
+    
+    <item>
+      <title>Các Thư Viện Java Thường Dùng</title>
+      <link>http://localhost:1313/post/post4/</link>
+      <pubDate>Fri, 20 Dec 2024 10:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/post/post4/</guid>
+      
+        <description>Tìm hiểu những thư viện Java nổi bật hỗ trợ phát triển phần mềm hiệu quả hơn.</description>
+      
+    </item>
+    
+    <item>
+      <title>Quản lý Bộ Nhớ trong Java</title>
+      <link>http://localhost:1313/post/post5/</link>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/post5/</guid>
+      
+        <description>Khám phá cách Java quản lý bộ nhớ tự động và cơ chế Garbage Collection.</description>
+      
+    </item>
+    
+    <item>
+      <title>Một số kiến thức cơ bản và mẹo vặt trong Java</title>
+      <link>http://localhost:1313/post/post2/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/post2/</guid>
+      
+        <description>Một số kiến thức cơ bản và mẹo vặt trong Java.</description>
       
     </item>
     

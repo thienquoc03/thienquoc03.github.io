@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My blog</title>
+    <link>http://localhost:1313/vietnam/</link>
+    <description>Recent content on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 30 Dec 2024 16:00:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/vietnam/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chứng Nhận</title>
+      <link>http://localhost:1313/vietnam/certifications/</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/vietnam/certifications/</guid>
+      
+        <description>Cisco NetworkingAcademy</description>
+      
+    </item>
+    
+    <item>
+      <title>Awards</title>
+      <link>http://localhost:1313/vietnam/awards/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/vietnam/awards/</guid>
+      
+        <description>Hugo Awards, an annual literary award for the best science fiction or fantasy works</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/vietnam/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/vietnam/archives/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/vietnam/contact/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/vietnam/contact/</guid>
+      
+        <description>Contact Page</description>
+      
+    </item>
+    
+    <item>
+      <title>Phạm Thiên Quốc</title>
+      <link>http://localhost:1313/vietnam/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/vietnam/about/</guid>
+      
+        <description>Sinh viên CNTT | Đam mê Khám phá</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/vietnam/imprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/vietnam/imprint/</guid>
+      
+        <description><h1 id="tiết-lộ-pháp-lý">Tiết Lộ Pháp Lý</h1>
+<p>Thiên Quốc<br>
+Thủ Đức<br>
+2024<br>
+Hồ Chí Minh</p></description>
+      
+    </item>
+    
+  </channel>
+</rss>

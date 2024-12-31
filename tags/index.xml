@@ -6,13 +6,13 @@
     <description>Recent content in Tags on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Mar 2022 21:47:41 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Dec 2024 16:00:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Demo</title>
-      <link>http://localhost:1313/tags/demo/</link>
-      <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
+      <title>Features</title>
+      <link>http://localhost:1313/tags/features/</link>
+      <pubDate>Mon, 30 Dec 2024 16:00:00 +0700</pubDate>
       
-      <guid>http://localhost:1313/tags/demo/</guid>
+      <guid>http://localhost:1313/tags/features/</guid>
       
         <description></description>
       
@@ -21,7 +21,7 @@
     <item>
       <title>Index</title>
       <link>http://localhost:1313/tags/index/</link>
-      <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
+      <pubDate>Mon, 30 Dec 2024 16:00:00 +0700</pubDate>
       
       <guid>http://localhost:1313/tags/index/</guid>
       
@@ -30,121 +30,176 @@
     </item>
     
     <item>
-      <title>Shortcode</title>
-      <link>http://localhost:1313/tags/shortcode/</link>
-      <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
+      <title>Java</title>
+      <link>http://localhost:1313/tags/java/</link>
+      <pubDate>Mon, 30 Dec 2024 16:00:00 +0700</pubDate>
       
-      <guid>http://localhost:1313/tags/shortcode/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Redirect</title>
-      <link>http://localhost:1313/tags/redirect/</link>
-      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/redirect/</guid>
+      <guid>http://localhost:1313/tags/java/</guid>
       
         <description></description>
       
     </item>
     
     <item>
-      <title>RedirectUrl</title>
-      <link>http://localhost:1313/tags/redirecturl/</link>
-      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      <title>Oop</title>
+      <link>http://localhost:1313/tags/oop/</link>
+      <pubDate>Mon, 30 Dec 2024 16:00:00 +0700</pubDate>
       
-      <guid>http://localhost:1313/tags/redirecturl/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Css</title>
-      <link>http://localhost:1313/tags/css/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/css/</guid>
+      <guid>http://localhost:1313/tags/oop/</guid>
       
         <description></description>
       
     </item>
     
     <item>
-      <title>Html</title>
-      <link>http://localhost:1313/tags/html/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Programming</title>
+      <link>http://localhost:1313/tags/programming/</link>
+      <pubDate>Mon, 30 Dec 2024 16:00:00 +0700</pubDate>
       
-      <guid>http://localhost:1313/tags/html/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Markdown</title>
-      <link>http://localhost:1313/tags/markdown/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/markdown/</guid>
+      <guid>http://localhost:1313/tags/programming/</guid>
       
         <description></description>
       
     </item>
     
     <item>
-      <title>Privacy</title>
-      <link>http://localhost:1313/tags/privacy/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Kiến Thức Cơ Bản</title>
+      <link>http://localhost:1313/tags/ki%E1%BA%BFn-th%E1%BB%A9c-c%C6%A1-b%E1%BA%A3n/</link>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/privacy/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Shortcodes</title>
-      <link>http://localhost:1313/tags/shortcodes/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/shortcodes/</guid>
+      <guid>http://localhost:1313/tags/ki%E1%BA%BFn-th%E1%BB%A9c-c%C6%A1-b%E1%BA%A3n/</guid>
       
         <description></description>
       
     </item>
     
     <item>
-      <title>Text</title>
-      <link>http://localhost:1313/tags/text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Lập Trình</title>
+      <link>http://localhost:1313/tags/l%E1%BA%ADp-tr%C3%ACnh/</link>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/text/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Emoji</title>
-      <link>http://localhost:1313/tags/emoji/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/emoji/</guid>
+      <guid>http://localhost:1313/tags/l%E1%BA%ADp-tr%C3%ACnh/</guid>
       
         <description></description>
       
     </item>
     
     <item>
-      <title>Thumbnail</title>
-      <link>http://localhost:1313/tags/thumbnail/</link>
-      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Javascript</title>
+      <link>http://localhost:1313/tags/javascript/</link>
+      <pubDate>Tue, 24 Dec 2024 10:00:00 +0700</pubDate>
       
-      <guid>http://localhost:1313/tags/thumbnail/</guid>
+      <guid>http://localhost:1313/tags/javascript/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Jdk</title>
+      <link>http://localhost:1313/tags/jdk/</link>
+      <pubDate>Tue, 24 Dec 2024 10:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/jdk/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Lap-Trinh</title>
+      <link>http://localhost:1313/tags/lap-trinh/</link>
+      <pubDate>Tue, 24 Dec 2024 10:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/lap-trinh/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Backend</title>
+      <link>http://localhost:1313/tags/backend/</link>
+      <pubDate>Sat, 21 Dec 2024 11:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/backend/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Frontend</title>
+      <link>http://localhost:1313/tags/frontend/</link>
+      <pubDate>Sat, 21 Dec 2024 11:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/frontend/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Nodejs</title>
+      <link>http://localhost:1313/tags/nodejs/</link>
+      <pubDate>Sat, 21 Dec 2024 11:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/nodejs/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Web-Development</title>
+      <link>http://localhost:1313/tags/web-development/</link>
+      <pubDate>Sat, 21 Dec 2024 11:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/web-development/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Laptrinh</title>
+      <link>http://localhost:1313/tags/laptrinh/</link>
+      <pubDate>Fri, 20 Dec 2024 10:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/laptrinh/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Thuvien-Java</title>
+      <link>http://localhost:1313/tags/thuvien-java/</link>
+      <pubDate>Fri, 20 Dec 2024 10:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/thuvien-java/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Bộ Nhớ</title>
+      <link>http://localhost:1313/tags/b%E1%BB%99-nh%E1%BB%9B/</link>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/b%E1%BB%99-nh%E1%BB%9B/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Garbage Collection</title>
+      <link>http://localhost:1313/tags/garbage-collection/</link>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/garbage-collection/</guid>
       
         <description></description>
       

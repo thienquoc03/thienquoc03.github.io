@@ -6,26 +6,37 @@
     <description>Recent content in Series-Setup on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/series/series-setup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Dec 2024 10:00:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/series/series-setup/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Series Part 2</title>
-      <link>http://localhost:1313/post/series-part-2/</link>
-      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
+      <title>Rest và Spread Operators</title>
+      <link>http://localhost:1313/english/post/rest-v%C3%A0-spread-operators/</link>
+      <pubDate>Tue, 24 Dec 2024 10:00:00 +0700</pubDate>
       
-      <guid>http://localhost:1313/post/series-part-2/</guid>
+      <guid>http://localhost:1313/english/post/rest-v%C3%A0-spread-operators/</guid>
       
-        <description>A brief guide to how to setup series part 2</description>
+        <description>Hai toán tử này cực kỳ hữu ích trong việc xử lý mảng và đối tượng.</description>
       
     </item>
     
     <item>
-      <title>Series Part 1</title>
-      <link>http://localhost:1313/post/series-part-1/</link>
-      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
+      <title>Rest và Spread Operators</title>
+      <link>http://localhost:1313/post/rest-v%C3%A0-spread-operators/</link>
+      <pubDate>Tue, 24 Dec 2024 10:00:00 +0700</pubDate>
       
-      <guid>http://localhost:1313/post/series-part-1/</guid>
+      <guid>http://localhost:1313/post/rest-v%C3%A0-spread-operators/</guid>
       
-        <description>A brief guide to how to setup series part 1</description>
+        <description>Hai toán tử này cực kỳ hữu ích trong việc xử lý mảng và đối tượng.</description>
+      
+    </item>
+    
+    <item>
+      <title>Rest và Spread Operators</title>
+      <link>http://localhost:1313/vietnam/post/rest-v%C3%A0-spread-operators/</link>
+      <pubDate>Tue, 24 Dec 2024 10:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/vietnam/post/rest-v%C3%A0-spread-operators/</guid>
+      
+        <description>Hai toán tử này cực kỳ hữu ích trong việc xử lý mảng và đối tượng.</description>
       
     </item>
     

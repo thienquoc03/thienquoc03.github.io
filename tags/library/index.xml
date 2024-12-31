@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Library on My blog</title>
+    <link>http://localhost:1313/tags/library/</link>
+    <description>Recent content in Library on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 20 Dec 2024 10:00:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/tags/library/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Các thư viện phổ biến của Java</title>
+      <link>http://localhost:1313/post/post4/</link>
+      <pubDate>Fri, 20 Dec 2024 10:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/post/post4/</guid>
+      
+        <description>Giới thiệu về các thư viện Java được sử dụng rộng rãi trong phát triển phần mềm.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
